@@ -104,11 +104,4 @@ Here are some of the technologies and tools I've been working with:
 
 Let's connect! You can find me on
 
-<div
-  style="display: flex; gap: 6px; margin-bottom: 20px;"
->
-  <img alt="Email Badge" src="https://img.shields.io/badge/email-888?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:josdavi0304@gmail.com" height="30" style="border-radius:6px" 
-  >
-
-  <img alt="LinkedIn Badge" src="https://img.shields.io/badge/linkedin-888?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-david-g%C3%B3mez-mu%C3%B1et%C3%B3n-31b459285/" height="30" style="border-radius:6px" height="30" style="border-radius:6px" >
-</div>
+[<img alt="Email Badge" src="https://img.shields.io/badge/email-888?style=for-the-badge&logo=gmail&logoColor=white" height="30">](mailto:josdavi0304@gmail.com) [<img alt="LinkedIn Badge" src="https://img.shields.io/badge/linkedin-888?style=for-the-badge&logo=linkedin&logoColor=white" height="30">](https://www.linkedin.com/in/jose-david-g%C3%B3mez-mu%C3%B1et%C3%B3n-31b459285/)
